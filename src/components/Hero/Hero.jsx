@@ -9,7 +9,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Ritesh</h1>
         <p className={styles.description}>
-          I'm a full-stack developer , and a passionate 3rd Computer Science undergrad from National Institute of Technology Jamshedpur.
+          I'm a full-stack developer , and a passionate Computer Science undergrad from National Institute of Technology Jamshedpur.
         </p>
         <a href="mailto:ritesh17lifeamazing.com" className={styles.contactBtn}>
           Contact Me
